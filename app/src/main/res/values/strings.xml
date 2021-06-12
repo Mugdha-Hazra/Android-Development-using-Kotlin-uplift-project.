@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculate_Me_App</string>
+    <string name="plus_symbol">+</string>
+    <string name="minus_symbol">-</string>
+    <string name="div_symbol">/</string>
+    <string name="Multiplication_symbol">*</string>
+</resources>
